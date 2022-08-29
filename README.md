@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yz.abdulrehman.khan@gmail.com**
 
-- ⚡ Fun fact **I like teaching a lot and giving back to the community, recently I've taught a course to differently able children on how to build a basic website, using HTML/CSS and JS. I also like solving challenges that require thinking and creative solutions.**
+- ⚡ Fun fact **I like teaching a lot and giving back to the community, recently I've taught a course to differently abled children on how to build a basic website, using HTML/CSS and JS, I also like solving challenges that require thinking and creative solutions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
