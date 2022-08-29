@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/arkhan_yz" target="blank"><img src="https://img.shields.io/twitter/follow/arkhan_yz?logo=twitter&style=for-the-badge" alt="arkhan_yz" /></a> </p>
 
-- 🌱 I’m currently learning **DOM Events In Depth**
+- 🌱 I’m currently learning **Understanding DOM Events In Depth**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
