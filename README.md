@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman Khan</h1>
-<h3 align="center">Senior Engineer @cloudways, Skilled in React, TypeScript, Angular, and Node.js</h3>
+<h3 align="center">JavaScript Frontend Engineer, Skilled in React, TypeScript, Angular, and Node.js</h3>
 
 - 🌱 I’m currently learning **Understanding DOM Events In Depth**
 
