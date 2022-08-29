@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdul Rehman Khan</h1>
-<h3 align="center">JavaScript Frontend Engineer, Skilled in React, TypeScript, Angular, and Node.js</h3>
+<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
+<h3 align="center">JavaScript Engineer, Skilled in React, TypeScript, Angular, and Node.js</h3>
 
 - 👯 I’m looking to collaborate on **open source projects**
 
