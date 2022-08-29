@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman Khan</h1>
-<h3 align="center">JavaScript Frontend Engineer, Skilled in React, TypeScript, Angular, and Node.js</h3>
+<h3 align="center">Senior Engineer @cloudways, Skilled in React, TypeScript, Angular, and Node.js</h3>
 
 <p align="left"> <a href="https://twitter.com/arkhan_yz" target="blank"><img src="https://img.shields.io/twitter/follow/arkhan_yz?logo=twitter&style=for-the-badge" alt="arkhan_yz" /></a> </p>
 
